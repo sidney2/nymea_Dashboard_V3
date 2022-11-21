@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/houseFrag">
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.nymea_dashboard_v3.settingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" >
+        <action
+            android:id="@+id/action_settingsFragment_to_houseFrag"
+            app:destination="@id/houseFrag" />
+    </fragment>
+    <fragment
+        android:id="@+id/houseFrag"
+        android:name="com.example.nymea_dashboard_v3.houseFrag"
+        android:label="fragment_house"
+        tools:layout="@layout/fragment_house" >
+        <action
+            android:id="@+id/action_houseFrag_to_settingsFragment"
+            app:destination="@id/settingsFragment" />
+        <action
+            android:id="@+id/action_houseFrag_to_largeFrag"
+            app:destination="@id/largeFrag" />
+        <action
+            android:id="@+id/action_houseFrag_to_smallFragment"
+            app:destination="@id/smallFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/largeFrag"
+        android:name="com.example.nymea_dashboard_v3.largeFrag"
+        android:label="fragment_large"
+        tools:layout="@layout/fragment_large" >
+        <action
+            android:id="@+id/action_largeFrag_to_houseFrag"
+            app:destination="@id/houseFrag" />
+    </fragment>
+    <fragment
+        android:id="@+id/smallFragment"
+        android:name="com.example.nymea_dashboard_v3.smallFragment"
+        android:label="fragment_small"
+        tools:layout="@layout/fragment_small" >
+        <action
+            android:id="@+id/action_smallFragment_to_houseFrag"
+            app:destination="@id/houseFrag" />
+    </fragment>
+</navigation>

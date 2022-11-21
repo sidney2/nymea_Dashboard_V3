@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/drawable/btn_backgrd.xml" value="0.1475" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/drawable/cal_end_cap.xml" value="0.2" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/drawable/calitem.xml" value="0.1" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/drawable/frag_title.xml" value="0.126" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/drawable/round.xml" value="0.1" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/cal_item.xml" value="0.6169491525423729" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/content_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_analog_clock.xml" value="0.22613065326633167" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_calendar.xml" value="0.4" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_digital_clock.xml" value="0.4" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_house.xml" value="0.536" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_house_env.xml" value="1.0833333333333333" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_large.xml" value="0.42178447276940906" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_presence.xml" value="0.1" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_pwr.xml" value="0.3788659793814433" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_room_env.xml" value="1.2" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_room_temperature.xml" value="0.536" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_settings.xml" value="0.5145118733509235" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_small.xml" value="0.8800000000000001" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/fragment_weather.xml" value="1.2" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/presence_item.xml" value="0.8" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/pwr_item.xml" value="0.72" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/room_item.xml" value="0.536" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/layout/room_temp_item.xml" value="0.8800000000000001" />
+        <entry key="..\:/Dev/Android/nymea_Dashboard_V3/app/src/main/res/menu/menu_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
